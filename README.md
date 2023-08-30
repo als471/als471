@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :name_badge: Adele Swecker: she/her/hers
+- :card_index: Adele Swecker: she/her/hers
 - 🔭 I’m currently working on my Computer Science Bachelor's degree
 - 🌱 I’m currently learning about programming algorithms and Webpage programs
 - :notebook: I'm interested in learning about other programming techniques including game design
